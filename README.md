@@ -1,2 +1,2 @@
 # PSDM
-Official code for PSDM
+Code to be open source.
