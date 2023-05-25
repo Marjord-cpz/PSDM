@@ -231,7 +231,7 @@ def getcolorDataset():
 
 def getDataset():
     BATCH_SIZE = 64 # 每次喂给的数据量
-    Train_Rate = 0.02   # 将训练集和测试集按比例分开0.01
+    Train_Rate = 0.01   # 将训练集和测试集按比例分开0.01
     Unlabel_Rate=0.01
     Test_rate=0.05
     os.environ['CUDA_VISIBLE_DEVICES'] = '0'   # 是否用GPU环视cpu训练
