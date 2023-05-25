@@ -1,0 +1,1 @@
+After running the color.py in the Nanjing folder, it will generate the image here

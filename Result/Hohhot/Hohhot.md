@@ -1,0 +1,1 @@
+After running the color.py in the Hohhot folder, it will generate the image here
