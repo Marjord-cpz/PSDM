@@ -45,7 +45,7 @@ Result
 ## Pre-training
 Start by training the RTN and save the trained network parameters in the `pre trained models` folder.
 
-This code ``` teacher_path= ".\pre trained models\teacher.pkl" ``` is the destination path.
+This code ``` teacher_path= "./pre trained models/teacher.pkl" ``` is the destination path.
 
 
 ## Training
